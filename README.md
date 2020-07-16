@@ -1,9 +1,9 @@
 # Othello-AI
-The AI code and the alpha-beta pruning algorithm is implemented in the /assets/Clickon.cs file
+The AI code and the alpha-beta pruning algorithm is implemented in the /Assets/Clickon.cs file
 
 Project Code in :  
 
-/assets/Clickon.cs   
-/assets/game.cs   
-/assets/Move.cs   
-/assets/HTFDialog.cs   
+/Assets/Clickon.cs   
+/Assets/game.cs   
+/Assets/Move.cs   
+/Assets/HTFDialog.cs   
